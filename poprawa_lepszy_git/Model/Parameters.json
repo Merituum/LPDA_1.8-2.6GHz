@@ -1,0 +1,120 @@
+{
+    "parameters": [
+        {
+            "expr": "152",
+            "name": "L",
+            "value": "152"
+        },
+        {
+            "expr": "38",
+            "name": "l1",
+            "value": "38"
+        },
+        {
+            "expr": "35",
+            "name": "l2",
+            "value": "35"
+        },
+        {
+            "expr": "32",
+            "name": "l3",
+            "value": "32"
+        },
+        {
+            "expr": "29",
+            "name": "l4",
+            "value": "29"
+        },
+        {
+            "expr": "27",
+            "name": "l5",
+            "value": "27"
+        },
+        {
+            "expr": "25",
+            "name": "l6",
+            "value": "25"
+        },
+        {
+            "expr": "23",
+            "name": "l7",
+            "value": "23"
+        },
+        {
+            "expr": "21",
+            "name": "l8",
+            "value": "21"
+        },
+        {
+            "expr": "19",
+            "name": "d1",
+            "value": "19"
+        },
+        {
+            "expr": "38",
+            "name": "d2",
+            "value": "38"
+        },
+        {
+            "expr": "56",
+            "name": "d3",
+            "value": "56"
+        },
+        {
+            "expr": "73",
+            "name": "d4",
+            "value": "73"
+        },
+        {
+            "expr": "88",
+            "name": "d5",
+            "value": "88"
+        },
+        {
+            "expr": "102",
+            "name": "d6",
+            "value": "102"
+        },
+        {
+            "expr": "115",
+            "name": "d7",
+            "value": "115"
+        },
+        {
+            "expr": "127",
+            "name": "d8",
+            "value": "127"
+        },
+        {
+            "expr": "0",
+            "name": "H",
+            "value": "0"
+        },
+        {
+            "expr": "19",
+            "name": "l9",
+            "value": "19"
+        },
+        {
+            "expr": "137",
+            "name": "d9",
+            "value": "137"
+        },
+        {
+            "expr": "6",
+            "name": "d",
+            "value": "6"
+        },
+        {
+            "expr": "2",
+            "name": "r",
+            "value": "2"
+        },
+        {
+            "expr": "9.5",
+            "name": "k",
+            "value": "9.5"
+        }
+    ],
+    "version": 1
+}

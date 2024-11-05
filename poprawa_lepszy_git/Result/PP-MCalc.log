@@ -1,0 +1,35 @@
+************************************************************************************************
+------------------------------------------------------------------------------------------------
+Geometry processor: default
+	Geo accuracy: 0.000000
+	Watertightness check: true
+	Self intersection check: false
+	Inheritance (all): false
+	Normal dominance (all): false
+	Normal dominance (ports): false
+	Flanges hollow: true
+	One shape per flange: false
+	Multi threading: true
+		max # of threads used: 4
+		requested max # of threads: 4
+		representation: indexed
+		method: multi thread
+		retry: no
+------------------------------------------------------------------------------------------------
+CAD processing settings are set to default
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+CAD Processing Version Info
+	ACIS version installed:	33.0.1
+	ACIS version used:	33.0.1
+------------------------------------------------------------------------------------------------
+	Body component1:#1 is not watertight after iteration 0
+	Body component1:#1 is not watertight. Trying to heal it with alternative settings.
+	Body component1:#1 is watertight after healing iteration 1
+	Body component1:#1dol is not watertight after iteration 0
+	Body component1:#1dol is not watertight. Trying to heal it with alternative settings.
+	Body component1:#1dol is watertight after healing iteration 1
+------------------------------------------------------------------------------------------------
+Success method:	fb-multi-thread-22
+************************************************************************************************
+

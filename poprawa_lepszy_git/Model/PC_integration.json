@@ -1,0 +1,124 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "L",
+         "type": "float",
+         "value": 152.0
+      },
+      {
+         "name": "l1",
+         "type": "float",
+         "value": 38.0
+      },
+      {
+         "name": "l2",
+         "type": "float",
+         "value": 35.0
+      },
+      {
+         "name": "l3",
+         "type": "float",
+         "value": 32.0
+      },
+      {
+         "name": "l4",
+         "type": "float",
+         "value": 29.0
+      },
+      {
+         "name": "l5",
+         "type": "float",
+         "value": 27.0
+      },
+      {
+         "name": "l6",
+         "type": "float",
+         "value": 25.0
+      },
+      {
+         "name": "l7",
+         "type": "float",
+         "value": 23.0
+      },
+      {
+         "name": "l8",
+         "type": "float",
+         "value": 21.0
+      },
+      {
+         "name": "d1",
+         "type": "float",
+         "value": 19.0
+      },
+      {
+         "name": "d2",
+         "type": "float",
+         "value": 38.0
+      },
+      {
+         "name": "d3",
+         "type": "float",
+         "value": 56.0
+      },
+      {
+         "name": "d4",
+         "type": "float",
+         "value": 73.0
+      },
+      {
+         "name": "d5",
+         "type": "float",
+         "value": 88.0
+      },
+      {
+         "name": "d6",
+         "type": "float",
+         "value": 102.0
+      },
+      {
+         "name": "d7",
+         "type": "float",
+         "value": 115.0
+      },
+      {
+         "name": "d8",
+         "type": "float",
+         "value": 127.0
+      },
+      {
+         "name": "H",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "l9",
+         "type": "float",
+         "value": 19.0
+      },
+      {
+         "name": "d9",
+         "type": "float",
+         "value": 137.0
+      },
+      {
+         "name": "d",
+         "type": "float",
+         "value": 6.0
+      },
+      {
+         "name": "r",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "k",
+         "type": "float",
+         "value": 9.5
+      }
+   ],
+   "outputVariables": []
+}
