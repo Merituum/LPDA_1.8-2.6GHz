@@ -30,6 +30,6 @@ Wyniki symulacji z najlepszym rezultatem<br>
 
 # Zysk energetyczny 
 Rzeczywisty zysk energetyczny<br>
-![zysk](images/zysk)
+![zysk](images/zysk.bmp)
 
 
